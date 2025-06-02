@@ -26,3 +26,53 @@
   </footer>
 </body>
 </html>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: #fff;
+}
+
+header {
+  background-color: #FFF700;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: #000;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.hero {
+  background-color: #111;
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.hero h2 {
+  color: #FFF700;
+  font-size: 36px;
+}
+
+.hero p {
+  font-size: 18px;
+}
+
+.btn {
+  background-color: #FFF700;
+  color: #000;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: #111;
+  padding: 10px;
+  text-align: center;
+}
